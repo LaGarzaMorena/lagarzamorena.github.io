@@ -1,5 +1,5 @@
 # lagarzamorena.github.io
-<|doctype html>
+<!doctype html>
 <html>
 <head></head>
 <body>
